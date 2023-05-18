@@ -1,5 +1,5 @@
 # Small-Multiples-in-Tableau
-Part 1: Import Data in Tableau
+Part 1: Import Data in Tableau \n
 Mainly focused on the importing data and understanding what is provided in the data
 Part 2: Small multiples for Top 5 popular states of US
 Plotting average yields of different commodities for the top 5 popular states of United States
